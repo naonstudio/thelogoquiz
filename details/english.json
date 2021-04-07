@@ -276,6 +276,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Mercedes Benz SLR",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         },
