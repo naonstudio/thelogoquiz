@@ -285,6 +285,69 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Bugatti Veyron",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Lamborghini Reventón",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Koenigsegg CCX",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Ford GT",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Aston Martin One 77",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Maserati MC12",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Lamborghini Aventador",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         },
